@@ -2,9 +2,9 @@ import React from 'react'
 import './services.css'
 import {BiCheck} from 'react-icons/bi'
 
-const Services = () => {
+const Services = ({innerRef}) => {
   return (
-    <section id='services'>
+    <section id='services' ref={innerRef}>
       <h5>What Can I Offer</h5>
       <h2>Services</h2>
 

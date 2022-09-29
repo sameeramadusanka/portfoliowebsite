@@ -42,9 +42,9 @@ const backend_skills = [
   }
 ]
 
-const Experience = () => {
+const Experience = ({ innerRef }) => {
   return (
-    <section id='experience'>
+    <section id='experience' ref={innerRef}>
       <h5>What I Do My Best</h5>
       <h2>My Skills</h2>
 

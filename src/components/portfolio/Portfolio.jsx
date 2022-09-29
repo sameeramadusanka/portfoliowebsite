@@ -9,6 +9,20 @@ import IMG6 from '../../assets/project-6.png'
 
 const data = [
   {
+    id: 5,
+    image: IMG5,
+    title: 'ELEMENTRY™',
+    github: 'https://blackswantechnologies.ai/what-is-element-2/',
+    demo: 'https://blackswantechnologies.ai/what-is-element-2/'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'ELEMENT™',
+    github: 'https://blackswantechnologies.ai/what-is-element-2/',
+    demo: 'https://blackswantechnologies.ai/what-is-element-2/'
+  },
+  {
     id: 1,
     image: IMG1,
     title: 'Western Provincial Council Information System',
@@ -35,25 +49,11 @@ const data = [
     title: 'Covid Health Declaration System',
     github: 'https://www.ostrio.com/project-services',
     demo: 'https://www.ostrio.com/project-services'
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'ELEMENTRY™',
-    github: 'https://blackswantechnologies.ai/what-is-element-2/',
-    demo: 'https://blackswantechnologies.ai/what-is-element-2/'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'ELEMENT™',
-    github: 'https://blackswantechnologies.ai/what-is-element-2/',
-    demo: 'https://blackswantechnologies.ai/what-is-element-2/'
   }
 ]
-const Portfolio = () => {
+const Portfolio = ({innerRef}) => {
   return (
-    <section id='portfolio'>
+    <section id='portfolio' ref={innerRef}>
       <h5>My Recent Work</h5>
       <h2>Projects</h2>
 
@@ -68,7 +68,7 @@ const Portfolio = () => {
                 <h3>{title}</h3>
                 <div className="portfolio_item-cta">
                   {/* <a href={github} className='btn' target='_blank'>Github</a> */}
-                  <a href={demo} className='btn btn-primary' target='_blank'>Demo</a>
+                  <a href={demo} className='btn btn-primary' target='_blank'>Details</a>
                 </div>
               </article>
             )

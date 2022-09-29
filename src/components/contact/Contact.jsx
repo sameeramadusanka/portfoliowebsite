@@ -5,7 +5,7 @@ import {RiMessengerLine} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
 import emailjs from 'emailjs-com';
 
-const Contact = () => {
+const Contact = ({innerRef}) => {
 
   const form = useRef();
 
@@ -24,7 +24,7 @@ const Contact = () => {
   };
 
   return (
-    <section id='contact'>
+    <section id='contact' ref={innerRef}>
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 

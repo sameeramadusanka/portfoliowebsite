@@ -5,9 +5,9 @@ import {FaAward} from 'react-icons/fa'
 import {GiFactory} from 'react-icons/gi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
-const About = () => {
+const About = ({innerRef}) => {
   return (
-    <section id='about'>
+    <section id='about' ref={innerRef}>
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 

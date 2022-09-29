@@ -4,9 +4,9 @@ import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
 import ME from '../../assets/dp-6.png'
 
-const Header = () => {
+const Header = ({innerRef}) => {
   return (
-    <header>
+    <header id='header' ref={innerRef}>
       <div className="container header_container">
         <h5>HI THERE I'M</h5>
         <h1>SAMEERA MADUSANKA</h1>

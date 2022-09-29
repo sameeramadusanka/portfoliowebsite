@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
+import AVTR1 from '../../assets/hashini.jpg'
 import AVTR2 from '../../assets/isuru.jpg'
 import AVTR3 from '../../assets/chinthaka.jpg'
 import AVTR4 from '../../assets/chamindu.jpg'
@@ -20,37 +20,37 @@ const data= [
     id:1,
     avatar: AVTR3,
     name: 'Chinthaka Maduranga',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor sapiente assumenda facilis, dignissimos ducimus non quod consectetur. Architecto ipsa placeat nihil possimus praesentium totam fuga cupiditate corporis incidunt, aperiam, laudantium sed ut rerum perferendis! Illum totam cumque maxime beatae, velit veritatis, voluptatem voluptatibus molestiae iste culpa ea enim molestias itaque.'
+    review: 'Sameera is such a wonderful and hard working person.. anything that he does comes out a million times better.. thank you for al of your fantastic work..'
   },
   {
     id:2,
     avatar: AVTR4,
     name: 'Chamindu Jayarathne',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor sapiente assumenda facilis, dignissimos ducimus non quod consectetur. Architecto ipsa placeat nihil possimus praesentium totam fuga cupiditate corporis incidunt, aperiam, laudantium sed ut rerum perferendis! Illum totam cumque maxime beatae, velit veritatis, voluptatem voluptatibus molestiae iste culpa ea enim molestias itaque.'
+    review: 'Sameera always does a fabulous job ! I highly recommend him for any job.. Thank you again!!'
   },
   {
     id:3,
     avatar: AVTR2,
     name: 'Isuru Piumal',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor sapiente assumenda facilis, dignissimos ducimus non quod consectetur. Architecto ipsa placeat nihil possimus praesentium totam fuga cupiditate corporis incidunt, aperiam, laudantium sed ut rerum perferendis! Illum totam cumque maxime beatae, velit veritatis, voluptatem voluptatibus molestiae iste culpa ea enim molestias itaque.'
+    review: 'Sameera definitely has the skills to get any job done, I will keep using his services and will highly recommend him.. thank you again my friend for all that you do !!'
   },
   {
     id:4,
     avatar: AVTR5,
     name: 'Ruwanga Thathsarani',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor sapiente assumenda facilis, dignissimos ducimus non quod consectetur. Architecto ipsa placeat nihil possimus praesentium totam fuga cupiditate corporis incidunt, aperiam, laudantium sed ut rerum perferendis! Illum totam cumque maxime beatae, velit veritatis, voluptatem voluptatibus molestiae iste culpa ea enim molestias itaque.'
+    review: 'Sameera did a great job and is very nice to work with! I would recommend him.'
   },
   {
     id:5,
     avatar: AVTR1,
     name: 'Hashini Yuresha',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor sapiente assumenda facilis, dignissimos ducimus non quod consectetur. Architecto ipsa placeat nihil possimus praesentium totam fuga cupiditate corporis incidunt, aperiam, laudantium sed ut rerum perferendis! Illum totam cumque maxime beatae, velit veritatis, voluptatem voluptatibus molestiae iste culpa ea enim molestias itaque.'
+    review: 'Sameera always comes thru and fixes everything right the first time..'
   }
 ]
 
-const Testimonials = () => {
+const Testimonials = ({innerRef}) => {
   return (
-    <section id='testimonials'>
+    <section id='testimonials' ref={innerRef}>
       <h5>Reviews from clients and Collegues</h5>
       <h2>Testimonial</h2>
 
