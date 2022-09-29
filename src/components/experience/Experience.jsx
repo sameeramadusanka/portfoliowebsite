@@ -50,7 +50,7 @@ const Experience = ({ innerRef }) => {
 
       <div className="container experience_container">
         <div className="experience_frontend">
-          <h3>Frobtend Development</h3>
+          <h3>Frontend Development</h3>
           <div className="experience_content">
             {
               frontend_skills.map(({name,level,icon}, index)=>{
