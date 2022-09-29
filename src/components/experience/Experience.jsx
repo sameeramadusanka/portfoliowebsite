@@ -84,9 +84,6 @@ const Experience = ({ innerRef }) => {
                 )
               })
             }
-          
-            
-
           </div>
         </div>
       </div>
