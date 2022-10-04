@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfoliowebsite/static/css/main.b6ac3e63.css",
-    "main.js": "/portfoliowebsite/static/js/main.8a0b50da.js",
+    "main.js": "/portfoliowebsite/static/js/main.6896e9e7.js",
     "static/media/dp-3.jpg": "/portfoliowebsite/static/media/dp-3.0ca26877f88457bff8c6.jpg",
     "static/media/hashini.jpg": "/portfoliowebsite/static/media/hashini.5c743a896dc6ce28126d.jpg",
-    "static/media/Sameera-Madusanka-CV.pdf": "/portfoliowebsite/static/media/Sameera-Madusanka-CV.585d16cd04ef4cafe251.pdf",
+    "static/media/Sameera-Madusanka-CV.pdf": "/portfoliowebsite/static/media/Sameera-Madusanka-CV.23d44cdfac78fe088bc4.pdf",
     "static/media/project-1.png": "/portfoliowebsite/static/media/project-1.77f8ae6bdc1dac251278.png",
     "static/media/dp-6.png": "/portfoliowebsite/static/media/dp-6.88e386c4fbe68d2925de.png",
     "static/media/project-4.png": "/portfoliowebsite/static/media/project-4.fc1ecbe8c11b7cf66933.png",
@@ -18,10 +18,10 @@
     "static/media/chamindu.jpg": "/portfoliowebsite/static/media/chamindu.4f8d15c19adb96c5003b.jpg",
     "index.html": "/portfoliowebsite/index.html",
     "main.b6ac3e63.css.map": "/portfoliowebsite/static/css/main.b6ac3e63.css.map",
-    "main.8a0b50da.js.map": "/portfoliowebsite/static/js/main.8a0b50da.js.map"
+    "main.6896e9e7.js.map": "/portfoliowebsite/static/js/main.6896e9e7.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ac3e63.css",
-    "static/js/main.8a0b50da.js"
+    "static/js/main.6896e9e7.js"
   ]
 }
