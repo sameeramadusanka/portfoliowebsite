@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoliowebsite/static/css/main.b6ac3e63.css",
-    "main.js": "/portfoliowebsite/static/js/main.6896e9e7.js",
+    "main.js": "/portfoliowebsite/static/js/main.7d5fa1bc.js",
     "static/media/dp-3.jpg": "/portfoliowebsite/static/media/dp-3.0ca26877f88457bff8c6.jpg",
     "static/media/hashini.jpg": "/portfoliowebsite/static/media/hashini.5c743a896dc6ce28126d.jpg",
     "static/media/Sameera-Madusanka-CV.pdf": "/portfoliowebsite/static/media/Sameera-Madusanka-CV.23d44cdfac78fe088bc4.pdf",
@@ -18,10 +18,10 @@
     "static/media/chamindu.jpg": "/portfoliowebsite/static/media/chamindu.4f8d15c19adb96c5003b.jpg",
     "index.html": "/portfoliowebsite/index.html",
     "main.b6ac3e63.css.map": "/portfoliowebsite/static/css/main.b6ac3e63.css.map",
-    "main.6896e9e7.js.map": "/portfoliowebsite/static/js/main.6896e9e7.js.map"
+    "main.7d5fa1bc.js.map": "/portfoliowebsite/static/js/main.7d5fa1bc.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ac3e63.css",
-    "static/js/main.6896e9e7.js"
+    "static/js/main.7d5fa1bc.js"
   ]
 }
