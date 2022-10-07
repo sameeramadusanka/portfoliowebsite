@@ -13,7 +13,7 @@ const data = [
     image: IMG5,
     title: 'ELEMENTRY™',
     github: 'https://blackswantechnologies.ai/what-is-element-2/',
-    demo: 'https://blackswantechnologies.ai/what-is-element-2/'
+    demo: 'https://blackswantechnologies.ai/about-us/'
   },
   {
     id: 6,
