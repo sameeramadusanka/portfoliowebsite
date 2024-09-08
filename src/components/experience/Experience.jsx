@@ -8,34 +8,31 @@ import {SiDotnet, SiCsharp, SiPhp} from 'react-icons/si'
 
 const frontend_skills = [
   {
-    name:'HTML5', level: 'Advanced', icon: <FaHtml5/>
+    name:'Angular', level: 'Advanced', icon: <FaAngular/>
   },
   {
-    name:'CSS', level: 'Advanced', icon: <DiCss3/>
+    name:'React', level: 'Advanced', icon: <FaReact/>
   },
   {
     name:'Javascript', level: 'Advanced', icon: <DiJavascript/>
   },
   {
-    name:'Angular', level: 'Advanced', icon: <FaAngular/>
+    name:'HTML5', level: 'Advanced', icon: <FaHtml5/>
   },
   {
-    name:'React', level: 'Advanced', icon: <FaReact/>
+    name:'CSS', level: 'Advanced', icon: <DiCss3/>
   }
 ]
 
 const backend_skills = [
   {
-    name:'Python', level: 'Advanced', icon: <FaPython/>
-  },
-  {
-    name:'Node.js', level: 'Advanced', icon: <FaNode/>
-  },
-  {
     name:'ASP.NET', level: 'Advanced', icon: <SiDotnet/>
   },
   {
     name:'C#', level: 'Advanced', icon: <SiCsharp/>
+  },
+  {
+    name:'Node.js', level: 'Advanced', icon: <FaNode/>
   },
   {
     name:'PHP', level: 'Advanced', icon: <SiPhp/>
