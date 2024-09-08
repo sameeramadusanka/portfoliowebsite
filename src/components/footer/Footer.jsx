@@ -41,7 +41,7 @@ const Footer = () => {
       </div>
 
       <div className="footer_copyright">
-        <small>&copy; 2022 Sameera Madusanka &#9786;</small>
+        <small>&copy; 2024 Sameera Madusanka &#9786;</small>
         <small> Built with <a href="https://reactjs.org/" target="_blank">react.js</a></small>
       </div>
     </footer>
