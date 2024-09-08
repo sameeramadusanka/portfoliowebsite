@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfoliowebsite/static/css/main.b6ac3e63.css",
-    "main.js": "/portfoliowebsite/static/js/main.898c9117.js",
+    "main.js": "/portfoliowebsite/static/js/main.19c9f6e6.js",
     "static/media/dp-3.jpg": "/portfoliowebsite/static/media/dp-3.0ca26877f88457bff8c6.jpg",
     "static/media/hashini.jpg": "/portfoliowebsite/static/media/hashini.5c743a896dc6ce28126d.jpg",
-    "static/media/Sameera-Madusanka-CV.pdf": "/portfoliowebsite/static/media/Sameera-Madusanka-CV.72fcfd974e8918c4c363.pdf",
     "static/media/project-1.png": "/portfoliowebsite/static/media/project-1.77f8ae6bdc1dac251278.png",
-    "static/media/dp-6.png": "/portfoliowebsite/static/media/dp-6.88e386c4fbe68d2925de.png",
+    "static/media/DP-7.png": "/portfoliowebsite/static/media/DP-7.312bc928e8389eff95b0.png",
     "static/media/project-4.png": "/portfoliowebsite/static/media/project-4.fc1ecbe8c11b7cf66933.png",
     "static/media/project-2.png": "/portfoliowebsite/static/media/project-2.7fd83768f0a6024cd7b7.png",
+    "static/media/Sameera-Madusanka-Resume.pdf": "/portfoliowebsite/static/media/Sameera-Madusanka-Resume.610151b252919951f11a.pdf",
     "static/media/project-5.png": "/portfoliowebsite/static/media/project-5.69e7c8509c9b5f9ef3bf.png",
     "static/media/chinthaka.jpg": "/portfoliowebsite/static/media/chinthaka.e66b7a2b7a1a010b0271.jpg",
     "static/media/isuru.jpg": "/portfoliowebsite/static/media/isuru.ebf7e36713ab61b26fc4.jpg",
@@ -18,10 +18,10 @@
     "static/media/chamindu.jpg": "/portfoliowebsite/static/media/chamindu.4f8d15c19adb96c5003b.jpg",
     "index.html": "/portfoliowebsite/index.html",
     "main.b6ac3e63.css.map": "/portfoliowebsite/static/css/main.b6ac3e63.css.map",
-    "main.898c9117.js.map": "/portfoliowebsite/static/js/main.898c9117.js.map"
+    "main.19c9f6e6.js.map": "/portfoliowebsite/static/js/main.19c9f6e6.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ac3e63.css",
-    "static/js/main.898c9117.js"
+    "static/js/main.19c9f6e6.js"
   ]
 }
