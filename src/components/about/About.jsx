@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/dp-3.jpg'
+import ME from '../../assets/DP-8.jpg'
 import {FaAward} from 'react-icons/fa'
 import {GiFactory} from 'react-icons/gi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -23,24 +23,24 @@ const About = ({innerRef}) => {
           <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>6+ Years Working</small>
+              <small>7+ Years Working</small>
             </article>
 
             <article className='about_card'>
               <GiFactory className='about_icon'/>
               <h5>Companies</h5>
-              <small>5 Companies</small>
+              <small>6 Companies</small>
             </article>
 
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
               <h5>Projects</h5>
-              <small>6+ Commercial Projects</small>
+              <small>7+ Commercial Projects</small>
             </article>
           </div>
 
           <p>
-          Results-driven Senior Software Engineer with 6+ years of experience specializing in ASP.NET and C# development. Proven expertise in designing, implementing, and optimizing backend technologies to deliver high-performance applications. Skilled in collaborating with cross-functional teams to define project requirements and deliver innovative software solutions with a focus on code quality, performance, and scalability. Passionate about leveraging emerging technologies to drive business success and enhance user experience.
+          Results-driven Senior Software Engineer with 7+ years of experience specializing in ASP.NET and C# development. Proven expertise in designing, implementing, and optimizing backend technologies to deliver high-performance applications. Skilled in collaborating with cross-functional teams to define project requirements and deliver innovative software solutions with a focus on code quality, performance, and scalability. Passionate about leveraging emerging technologies to drive business success and enhance user experience.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
